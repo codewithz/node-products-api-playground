@@ -1,0 +1,17 @@
+{
+  "name": "products-api",
+  "version": "1.0.0",
+  "description": "Demo app for products api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Code With Z",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0",
+    "products-api": "file:"
+  }
+}
